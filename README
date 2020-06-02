@@ -6,5 +6,10 @@ This program is meant to be used to test the soil moisture for a prolonged perio
 
 Below Is a list of the contained files and their uses
 
-SdFat.Zip - The relive net Libraries for the SD Card read.write module
-MicroSD ModuleV1.0_Sch.ph
+SdFat.Zip - The relevant Libraries for the SD Card read.write module
+SdFat - Unzipped Libraries for the SD Card reader 
+MicroSD ModuleV1.0_Sch.ph - the wiring schematic for the sd module
+SparkFun_Soil_Moisture_Sensor.pdf - Wiring schematic for the moisture sensor
+SparkFun_Soil_Moisture_Sensor.zip - These file relate to the soil moisture sensor but you probably wont need them
+SoilMoistureOnly_Example - this is an Arduino program I found related to the moisture sensor the SDCard is not implemented 
+
