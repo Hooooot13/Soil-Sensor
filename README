@@ -3,3 +3,8 @@ This I a preliminary code folder to assist with a research project I am no longe
 This Repository will contain all of the reliving files to that project. 
 
 This program is meant to be used to test the soil moisture for a prolonged period without exterior input
+
+Below Is a list of the contained files and their uses
+
+SdFat.Zip - The relive net Libraries for the SD Card read.write module
+MicroSD ModuleV1.0_Sch.ph
